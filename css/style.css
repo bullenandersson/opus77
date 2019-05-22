@@ -2088,4 +2088,9 @@ blockquote {
   margin: 0;
 }
 
+/* Jannes */
+.video-fluid {
+width: 380px;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
